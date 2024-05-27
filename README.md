@@ -1,0 +1,1 @@
+An application developed using Python and later integrated into Simcenter, using the NXOpen API that allows selection and identification of geometric entities in CAD models with the help of Large Language Models. 
